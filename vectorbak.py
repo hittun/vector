@@ -13,7 +13,7 @@
 
 # @File : vector.py
 # @Time : 2020/3/27 19:28 
-# @GitHub: https://github.com/hittun/pygamel
+# @GitHub: https://github.com/hittun/vector
 """
 from array import array
 import reprlib

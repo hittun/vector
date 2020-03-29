@@ -4,7 +4,7 @@
 # Color with RGBA
 # @File : color.py
 # @Time : 2020/3/27 19:01 
-# @GitHub: https://github.com/hittun/pygamel
+# @GitHub: https://github.com/hittun/vector
 """
 
 

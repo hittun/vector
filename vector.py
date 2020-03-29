@@ -3,7 +3,7 @@
 """
 # @File : vector.py
 # @Time : 2020/3/28 0:20 
-# @GitHub: https://github.com/hittun/pygamel
+# @GitHub: https://github.com/hittun/vector
 """
 import sys
 import math
